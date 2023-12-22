@@ -1,0 +1,6 @@
+[submodule ".github"]
+	path = .github
+	url = https://github.com/kirin123kirin/.github.git
+[submodule ".vscode"]
+	path = .vscode
+	url = https://github.com/kirin123kirin/.vscode.git
