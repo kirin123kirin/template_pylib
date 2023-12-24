@@ -1,6 +1,8 @@
 [submodule ".github"]
 	path = .github
 	url = https://github.com/kirin123kirin/.github.git
+	branch = main
 [submodule ".vscode"]
 	path = .vscode
 	url = https://github.com/kirin123kirin/.vscode.git
+	branch = main
